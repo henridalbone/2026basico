@@ -1,1 +1,18 @@
 
+body{
+    background-color:darkslateblue
+}
+
+h1 {
+text-align: center;
+font-size: 70px;
+}
+
+h2 {
+    color:hotpink  
+}
+
+p{
+    font-style: italic;
+    font-size: 25px;
+}
